@@ -1,0 +1,28 @@
+{
+    "name": "node-hastebin",
+    "version": "1.0.0",
+    "description": "Dependency-free Node.js module to interact with HasteBin servers",
+    "main": "index.js",
+    "scripts": {
+        "test": "echo \"Error: no test specified\" && exit 1"
+    },
+    "repository": {
+        "type": "git",
+        "url": "git+https://github.com/MoaufmKlo/node-hastebin.git"
+    },
+    "keywords": [
+        "hastebin",
+        "paste",
+        "pastebin"
+    ],
+    "author": {
+        "email": "hey@moaufmklo.com",
+        "name": "MoaufmKlo",
+        "url": "https://moaufmklo.com"
+    },
+    "license": "ISC",
+    "bugs": {
+        "url": "https://github.com/MoaufmKlo/node-hastebin/issues"
+    },
+    "homepage": "https://github.com/MoaufmKlo/node-hastebin#readme"
+}
