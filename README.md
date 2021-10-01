@@ -9,7 +9,7 @@
 - [Table of contents](#table-of-contents)
 - [About](#about)
 - [Installation](#installation)
-- [Usage](#example-usage)
+- [Usage](#usage)
 - [Links](#links)
 - [Contributing](#contributing)
 
