@@ -15,14 +15,14 @@
 
 ## About
 
-Dependency-free [Node.js](https://nodejs.org/)  module to interact with HasteBin servers.
+Dependency-free [Node.js](https://nodejs.org/) module to interact with HasteBin servers.
 
 ## Installation
 
 Use the package manager [npm](https://www.npmjs.com/) to install node-hastebin:
 
 ```bash
-npm install node-hastebin
+npm install node-hastebin --production
 ```
 
 ## Usage
